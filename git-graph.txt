@@ -1,0 +1,24 @@
+* 73bbc30 (HEAD -> main, origin/main) feat: add demo script
+*   fa7d2e9 fix: resolve monitor.js conflict (merge dev into main)
+|\  
+| * 1bca4df (conflict-simulator, bugfix/readme) feat: add test-stash.js script for git stash demo
+| * 7402a30 chore: add lockfile for NPM packages
+| * 4e858d1 chore: add package manifest
+| * 4d204d2 docs: add feature2.txt for new branch testing
+| * baf0180 feat: add docker-compose config for local dev
+| * d3dd9b2 (instructor/conflict-simulator) updating conflict-simulator
+* | 26ae408 fix: resolve README.md conflict (merge dev into main)
+| | * 81a1134 (feature/demo) merge: Resolve all conflicts between main and dev branches
+| |/  
+|/|   
+* |   9b5bcf4 (tag: v1.2.0, origin/feature2) merge: Resolve all conflicts between main and dev
+|\ \  
+| * | 02011a5 (instructor/dev, dev) updating dev
+| |/  
+* | 0312c6f (instructor/main, instructor/HEAD) updating main
+| | * 06f345a (feature2) docs: Add project artifacts
+| |/  
+|/|   
+* | fadfd24 (tag: v1.1.0, tag: v1.0.0) Revise README for DevOps Simulator project
+|/  
+* ae630eb Initial commit
