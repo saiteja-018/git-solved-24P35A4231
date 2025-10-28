@@ -16,21 +16,21 @@ merge conflicts across multiple branches using proper Git workflows.
 | Command | Times Used | Purpose |
 |---------|------------|----------|
 | git clone | 1 | Clone instructor's repository |
-| git checkout | 20+ | Switch between branches |
-| git branch | 10+ | View and manage branches |
-| git merge | 2 | Merge dev and conflict-simulator into main |
-| git add | 30+ | Stage resolved conflicts |
-| git commit | 15+ | Commit resolved changes |
-| git push | 10+ | Push to my repository |
-| git fetch | 2 | Fetch updates from instructor |
-| git pull | 1 | Pull updates |
+| git checkout | 30+ | Switch between branches |
+| git branch | 20+ | View and manage branches |
+| git merge | 4 | Merge dev and conflict-simulator into main |
+| git add | 40+ | Stage resolved conflicts |
+| git commit | 125+ | Commit resolved changes |
+| git push | 15+ | Push to my repository |
+| git fetch | 3 | Fetch updates from instructor |
+| git pull | 2 | Pull updates |
 | git stash | 2 | Save temporary work |
 | git cherry-pick | 1 | Copy specific commit |
 | git rebase | 1 | Rebase feature branch |
-| git reset | 3 | Undo commits (soft/mixed/hard) |
+| git reset | 5 | Undo commits (soft/mixed/hard) |
 | git revert | 1 | Safe undo |
-| git tag | 2 | Create release tags |
-| git status | 50+ | Check repository state |
+| git tag | 3 | Create release tags |
+| git status | 100+ | Check repository state |
 | git log | 30+ | View history |
 | git diff | 20+ | Compare changes |
 
